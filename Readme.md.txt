@@ -6,4 +6,8 @@ get the https url of the repo - and clone it to our local machine
 	
  git status 
 
- git add.
+ git add[filename]
+
+ git commit -m[Message]
+ 
+ git push origin master
